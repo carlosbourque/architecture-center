@@ -2,7 +2,7 @@
 
 Command and Query Responsibility Segregation (CQRS) is an architecture style that separates read operations from write operations. 
 
-![](./images/cqrs-logical.png)
+![](./images/cqrs-logical.svg)
 
 In traditional architectures, the same data model is used to query and update a database. That's simple and works well for basic CRUD operations. In more complex applications, however, this approach can become unwieldy. For example, on the read side, the application may perform many different queries, returning data transfer objects (DTOs) with different shapes. Object mapping can become complicated. On the write side, the model may implement complex validation and business logic. As a result, you can end up with an overly complex model that does too much.
 
@@ -20,7 +20,7 @@ If separate read and write databases are used, they must be kept in sync. Typica
 
 Some implementations of CQRS use the [Event Sourcing pattern][event-sourcing]. With this pattern, application state is stored as a sequence of events. Each event represents a set of changes to the data. The current state is constructed by replaying the events. In a CQRS context, one benefit of Event Sourcing is that the same events can be used to notify other components &mdash; in particular, to notify the read model. The read model uses the events to create a snapshot of the current state, which is more efficient for queries. However, Event Sourcing adds complexity to the design.
 
-![](./images/cqrs-events.png)
+![](./images/cqrs-events.svg)
 
 ## When to use this architecture
 
