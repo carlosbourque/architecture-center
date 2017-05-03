@@ -1,14 +1,15 @@
 # Big data architecture style
 
-A big data architecture is designed to handle the ingestion, processing, and analysis of data that is too large or complex for traditional database systems. Big data solutions typically involve one or more of the following types of workload:
+A big data architecture is designed to handle the ingestion, processing, and analysis of data that is too large or complex for traditional database systems.
+
+![](./images/big-data-logical.png)
+
+ Big data solutions typically involve one or more of the following types of workload:
 
 - Batch processing of big data sources at rest.
 - Real-time processing of big data in motion.
 - Interactive exploration of big data.
 - Predictive analytics and machine learning.
-
-
-![](./images/big-data-logical.png)
 
 Most big data architectures include some or all of the following components:
 

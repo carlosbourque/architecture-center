@@ -4,7 +4,7 @@ In an event driven architecture, application behavior is driven by asynchronous 
 
 ![](./images/event-driven.svg)
 
-At its heart, an event-driven architecture consists of event producers and event consumers. Producers generate events, and consumers listen for them. Producers are decoupled from consumers &mdash; a producer doesn't know which consumers are listening. The events go to all of the consumers, which process them independently from each other. (This differs from a [Competing Consumers][competing-consumers] pattern.) Events are delivered in near real time, so consumers can respond immediately to events as they occur.
+An event-driven architecture consists of **event producers** that generate a stream of events, and **event consumers** that listen for the events. Events are delivered in near real time, so consumers can respond immediately to events as they occur. Producers are decoupled from consumers &mdash; a producer doesn't know which consumers are listening. Consumers are also decoupled from each other, and every consumer sees all of the events. This differs from a [Competing Consumers][competing-consumers] pattern, where consumers pull messages from a queue and a message is processed just once (assuming no errors). 
 
 An event driven architecture can use a pub/sub model, or an event stream model. 
 
