@@ -2,7 +2,7 @@
 
 In an event driven architecture, application behavior is driven by asynchronous events, using a publish-subscribe (pub-sub) model. In some systems, such as IoT, events must be ingested at very high volumes.
 
-![](./images/event-driven.png)
+![](./images/event-driven.svg)
 
 At its heart, an event-driven architecture consists of event producers and event consumers. Producers generate events, and consumers listen for them. Producers are decoupled from consumers &mdash; a producer doesn't know which consumers are listening. The events go to all of the consumers, which process them independently from each other. (This differs from a [Competing Consumers][competing-consumers] pattern.) Events are delivered in near real time, so consumers can respond immediately to events as they occur.
 
