@@ -1,4 +1,4 @@
-# Big Compute architecture style
+# Big compute architecture style
 
 The term *big compute* describes large-scale workloads that require a large number of cores, often numbering in the hundreds or thousands. Scenarios include image rendering, fluid dynamics, financial risk modeling, oil exploration, drug design, and engineering stress analysis, among others.
 
