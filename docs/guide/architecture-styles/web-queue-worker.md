@@ -2,7 +2,7 @@
 
 The core components of this architecture are a **web front end** that serves client requests, and a **worker** that performs resource-intensive tasks, long-running workflows, or batch jobs.  The web front end communicates with the worker through a **message queue**.  
 
-![](./images/web-queue-worker-logical.png)
+![](./images/web-queue-worker-logical.svg)
 
 Other components that are commonly incorporated into this architecture include:
 
