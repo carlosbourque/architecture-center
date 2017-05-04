@@ -1,1244 +1,286 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="141.05495mm"
-   height="141.77641mm"
-   viewBox="0 0 499.80099 502.35737"
-   id="svg4157"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="guide-steps.svg">
-  <style
-     id="style4630"><![CDATA[
-   text {
-       font-family: segoe-ui_normal,Segoe UI,Segoe,Segoe WP,Helvetica Neue,Helvetica,sans-serif;
-   }
-   .guide-step {
-       font-weight: 600;
-   }
-   ]]></style>
-  <defs
-     id="defs4159">
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker5330"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutS">
-      <path
-         transform="scale(0.2,0.2)"
-         style="fill:#5da2d7;fill-opacity:1;fill-rule:evenodd;stroke:#5da2d7;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path5332"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker5162"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutS">
-      <path
-         transform="scale(0.2,0.2)"
-         style="fill:#5da2d7;fill-opacity:1;fill-rule:evenodd;stroke:#5da2d7;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path5164"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker5158"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutS">
-      <path
-         transform="scale(0.2,0.2)"
-         style="fill:#5da2d7;fill-opacity:1;fill-rule:evenodd;stroke:#5da2d7;stroke-width:1pt;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path5160"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleOutS"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker5154"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path5156"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#5da2d7;fill-opacity:1;fill-rule:evenodd;stroke:#5da2d7;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(0.2,0.2)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleOutS"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleOutS"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path4998"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#5da2d7;fill-opacity:1;fill-rule:evenodd;stroke:#5da2d7;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(0.2,0.2)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleOutM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleOutM"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path4995"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#5da2d7;fill-opacity:1;fill-rule:evenodd;stroke:#5da2d7;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(0.4,0.4)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow2Mend"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path4877"
-         style="fill:#5da2d7;fill-opacity:1;fill-rule:evenodd;stroke:#5da2d7;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6,-0.6)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker5027"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path5029"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker8590"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send">
-      <path
-         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
-         style="fill:#5da2d7;fill-opacity:1;fill-rule:evenodd;stroke:#5da2d7;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
-         id="path8592"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker8508"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send">
-      <path
-         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
-         style="fill:#5da2d7;fill-opacity:1;fill-rule:evenodd;stroke:#5da2d7;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
-         id="path8510"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker8432"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send">
-      <path
-         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
-         style="fill:#5da2d7;fill-opacity:1;fill-rule:evenodd;stroke:#5da2d7;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
-         id="path8434"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker8362"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Send">
-      <path
-         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
-         style="fill:#5da2d7;fill-opacity:1;fill-rule:evenodd;stroke:#5da2d7;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
-         id="path8364"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker5027-0"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path5029-1"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker5027-0-6-5"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path5029-1-5-2"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker5027-0-8"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path5029-1-9"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
-    </marker>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="190.78389"
-     inkscape:cy="237.66062"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1536"
-     inkscape:window-height="801"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid5245"
-       originx="-39.921327"
-       originy="-33.350011" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata4162">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-46.492752,-153.65486)">
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#d2e4f2;stroke-width:3.5999999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5592"
-       cx="-316.88092"
-       cy="415.77087"
-       r="216.6777"
-       transform="matrix(0.30901701,-0.95105651,0.95105651,0.30901701,0,0)" />
-    <rect
-       y="395.14642"
-       x="477.28461"
-       height="30.809652"
-       width="68.690369"
-       id="rect5887"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect5870"
-       width="81.317276"
-       height="29.7995"
-       x="46.492752"
-       y="400.47891" />
-    <path
-       style="fill:#5da2d7;fill-opacity:1;fill-rule:evenodd;stroke:#5da2d7;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5330)"
-       d="m 189.51914,360.48739 c 13.54155,-18.03956 22.57246,-26.18936 41.37149,-38.12775"
-       id="path5167"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:#5da2d7;fill-opacity:1;fill-rule:evenodd;stroke:#5da2d7;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutS)"
-       d="m 345.45187,310.88882 c 19.84034,10.73128 29.23357,18.46069 43.81536,35.29221"
-       id="path4809"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <g
-       id="g4320"
-       transform="matrix(2.8861607,0,0,2.8861607,205.14286,337.49479)">
-      <path
-         id="path9"
-         d="M 32,0 A 32,32 0 1 0 64,32 32,32 0 0 0 32,0 Z m 0,62 A 30,30 0 1 1 62,32 30,30 0 0 1 32,62 Z"
-         class="cls-1"
-         inkscape:connector-curvature="0"
-         style="fill:#dedede" />
-      <circle
-         id="circle11"
-         r="30"
-         cy="32"
-         cx="32"
-         class="cls-2"
-         style="fill:#eaeaea" />
-      <polygon
-         id="polygon13"
-         points="32,4 26.72,22.47 26.72,22.47 30.34,24.48 32,25.4 32,24 "
-         class="cls-1"
-         style="fill:#dedede" />
-      <polygon
-         id="polygon15"
-         points="33.66,39.52 32.14,38.67 32,38.6 32,38.75 32,40 32,60 37.28,41.53 33.66,39.52 "
-         class="cls-1"
-         style="fill:#dedede" />
-      <polygon
-         id="polygon17"
-         points="32,4 37.28,22.47 37.28,22.47 33.66,24.48 32,25.4 32,24 "
-         class="cls-3"
-         style="fill:#ffffff" />
-      <polygon
-         id="polygon19"
-         points="30.34,39.52 31.86,38.67 32,38.6 32,38.75 32,40 32,60 26.72,41.53 30.34,39.52 "
-         class="cls-3"
-         style="fill:#ffffff" />
-      <polygon
-         id="polygon21"
-         points="4,32 22.47,37.28 22.47,37.28 24.48,33.66 25.4,32 24,32 "
-         class="cls-1"
-         style="fill:#dedede" />
-      <polygon
-         id="polygon23"
-         points="39.52,30.34 38.67,31.86 38.6,32 38.75,32 40,32 60,32 41.53,26.72 39.52,30.34 "
-         class="cls-1"
-         style="fill:#dedede" />
-      <polygon
-         id="polygon25"
-         points="4,32 22.47,26.72 22.47,26.72 24.48,30.34 25.4,32 24,32 "
-         class="cls-3"
-         style="fill:#ffffff" />
-      <polygon
-         id="polygon27"
-         points="39.52,33.66 38.67,32.14 38.6,32 38.75,32 40,32 60,32 41.53,37.28 39.52,33.66 "
-         class="cls-3"
-         style="fill:#ffffff" />
-      <polygon
-         id="polygon29"
-         points="25.4,32 25.48,32 32,32 17.15,17.15 17.15,17.15 "
-         class="cls-1"
-         style="fill:#dedede" />
-      <polygon
-         id="polygon31"
-         points="25.4,32 25.48,32 32,32 17.15,46.85 17.15,46.85 "
-         class="cls-3"
-         style="fill:#ffffff" />
-      <polygon
-         id="polygon33"
-         points="32,38.6 32,38.52 32,32 17.15,46.85 17.15,46.85 "
-         class="cls-1"
-         style="fill:#dedede" />
-      <polygon
-         id="polygon35"
-         points="32,38.6 32,38.52 32,32 46.85,46.85 46.85,46.85 "
-         class="cls-3"
-         style="fill:#ffffff" />
-      <polygon
-         id="polygon37"
-         points="38.6,32 38.52,32 32,32 46.85,46.85 46.85,46.85 "
-         class="cls-1"
-         style="fill:#dedede" />
-      <polygon
-         id="polygon39"
-         points="38.6,32 38.52,32 32,32 46.85,17.15 46.85,17.15 "
-         class="cls-3"
-         style="fill:#ffffff" />
-      <polygon
-         id="polygon41"
-         points="32,25.4 32,25.48 32,32 46.85,17.15 46.85,17.15 "
-         class="cls-1"
-         style="fill:#dedede" />
-      <polygon
-         id="polygon43"
-         points="32,25.4 32,25.48 32,32 17.15,17.15 17.15,17.15 "
-         class="cls-3"
-         style="fill:#ffffff" />
-      <polygon
-         id="polygon45"
-         points="12.28,51.88 36,36 51.88,12.28 28,28 28,28 "
-         class="cls-4"
-         style="fill:#3899c5" />
-      <polygon
-         id="polygon47"
-         points="12.28,51.88 36,36 32.08,32.08 12.28,51.88 "
-         class="cls-5"
-         style="fill:#58b6da" />
-      <polygon
-         id="polygon49"
-         points="51.88,12.28 28,28 32.08,32.08 51.88,12.28 "
-         class="cls-6"
-         style="fill:#1881ce" />
-      <polygon
-         id="polygon51"
-         points="51.88,12.28 36,36 31.92,31.92 51.88,12.28 "
-         class="cls-7"
-         style="fill:#0271c5" />
-      <circle
-         id="circle53"
-         r="2"
-         cy="32"
-         cx="32"
-         class="cls-8"
-         style="fill:#797979" />
-    </g>
-    <circle
-       transform="matrix(0.309017,0.95105651,-0.95105651,0.309017,0,0)"
-       r="43.928574"
-       cy="-276.09747"
-       cx="500.746"
-       id="circle5309"
-       style="fill:#ffffff;fill-opacity:1;stroke:#3c3c3c;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path5173"
-       d="M 196.15849,504.45114 C 183.39695,485.85161 178.56329,474.68862 173.26388,453.0589"
-       style="fill:#5da2d7;fill-opacity:1;fill-rule:evenodd;stroke:#5da2d7;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5154)" />
-    <path
-       style="fill:#5da2d7;fill-opacity:1;fill-rule:evenodd;stroke:#5da2d7;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5158)"
-       d="m 331.7408,550.91262 c -21.95783,5.16265 -34.11352,5.62731 -56.19461,2.73701"
-       id="path5179"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path5185"
-       d="m 423.93426,435.7667 c -2.81136,22.3807 -6.61109,33.93659 -17.01374,53.62703"
-       style="fill:#5da2d7;fill-opacity:1;fill-rule:evenodd;stroke:#5da2d7;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5162)" />
-    <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:#3c3c3c;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4715"
-       cx="297.5"
-       cy="303.86221"
-       r="56.785717" />
-    <text
-       class="guide-step"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:segoe-ui_normal, 'Segoe UI', Segoe, 'Segoe WP', 'Helvetica Neue', Helvetica, sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="297.70325"
-       y="299.97305"
-       id="text4705"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4707"
-         x="297.70325"
-         y="299.97305">Architecture</tspan><tspan
-         sodipodi:role="line"
-         x="297.70325"
-         y="315.59805"
-         id="tspan4709">Styles</tspan></text>
-    <circle
-       r="43.928574"
-       cy="289.78116"
-       cx="-316.88092"
-       id="circle4731"
-       style="fill:#ffffff;fill-opacity:1;stroke:#3c3c3c;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,0,0)" />
-    <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:#3c3c3c;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle4743"
-       cx="-495.80551"
-       cy="-297.37772"
-       r="43.928574"
-       transform="matrix(-0.809017,-0.58778525,0.58778525,-0.809017,0,0)" />
-    <circle
-       r="43.928574"
-       cy="-645.6629"
-       cx="12.786591"
-       id="circle4749"
-       style="fill:#ffffff;fill-opacity:1;stroke:#3c3c3c;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(-0.80901699,0.58778526,-0.58778526,-0.80901699,0,0)" />
-    <text
-       class="guide-step"
-       sodipodi:linespacing="125%"
-       id="text4759"
-       y="388.31152"
-       x="417.24033"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:segoe-ui_normal, 'Segoe UI', Segoe, 'Segoe WP', 'Helvetica Neue', Helvetica, sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan4763"
-         y="388.31152"
-         x="417.24033"
-         sodipodi:role="line">Technology</tspan><tspan
-         y="403.93652"
-         x="417.24033"
-         sodipodi:role="line"
-         id="tspan4767">Choices</tspan></text>
-    <text
-       class="guide-step"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:segoe-ui_normal, 'Segoe UI', Segoe, 'Segoe WP', 'Helvetica Neue', Helvetica, sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="368.96881"
-       y="526.13757"
-       id="text4769"
-       sodipodi:linespacing="125%"><tspan
-         id="tspan4773"
-         sodipodi:role="line"
-         x="368.96881"
-         y="526.13757">Design</tspan><tspan
-         sodipodi:role="line"
-         x="368.96881"
-         y="541.76257"
-         id="tspan4777">Principles</tspan></text>
-    <text
-       class="guide-step"
-       sodipodi:linespacing="125%"
-       id="text4779"
-       y="529.40338"
-       x="226.11821"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:segoe-ui_normal, 'Segoe UI', Segoe, 'Segoe WP', 'Helvetica Neue', Helvetica, sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan4783"
-         y="529.40338"
-         x="226.11821"
-         sodipodi:role="line">Quality</tspan><tspan
-         y="545.02838"
-         x="226.11821"
-         sodipodi:role="line"
-         id="tspan4787">Pillars</tspan></text>
-    <text
-       class="guide-step"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:segoe-ui_normal, 'Segoe UI', Segoe, 'Segoe WP', 'Helvetica Neue', Helvetica, sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="177.41544"
-       y="388.27982"
-       id="text4789"
-       sodipodi:linespacing="125%"><tspan
-         id="tspan4793"
-         sodipodi:role="line"
-         x="177.41544"
-         y="388.27982">Design</tspan><tspan
-         sodipodi:role="line"
-         x="177.41544"
-         y="403.90482"
-         id="tspan4797">Patterns</tspan></text>
-    <g
-       id="g4442"
-       transform="matrix(1.0996678,0,0,1.0996678,475.91503,328.79741)">
-      <title
-         id="title4444">Layer 1</title>
-      <polygon
-         style="fill:#3b3b3b"
-         id="svg_1"
-         points="0,25.5 64,25.5 64,25.5 59.67,31.5 3.67,31.5 "
-         class="cls-1" />
-      <path
-         style="fill:#ba1418"
-         inkscape:connector-curvature="0"
-         id="svg_2"
-         d="m 0,31.5 64,0 0,20 a 2,2 0 0 1 -2,2 l -60,0 a 2,2 0 0 1 -2,-2 l 0,-20 z"
-         class="cls-2" />
-      <path
-         style="fill:#ba1418"
-         inkscape:connector-curvature="0"
-         id="svg_3"
-         d="m 2,15.5 60,0 a 2,2 0 0 1 2,2 l 0,8 -64,0 0,-8 a 2,2 0 0 1 2,-2 z"
-         class="cls-2" />
-      <rect
-         style="fill:#dedede"
-         id="svg_4"
-         height="4"
-         width="8"
-         y="31.5"
-         x="28"
-         class="cls-3" />
-      <rect
-         style="fill:#3b3b3b"
-         id="svg_5"
-         height="2"
-         width="4"
-         y="31.5"
-         x="30"
-         class="cls-1" />
-      <rect
-         style="fill:#dedede"
-         id="svg_6"
-         height="4"
-         width="8"
-         y="21.5"
-         x="28"
-         class="cls-3" />
-      <rect
-         style="fill:#3b3b3b"
-         id="svg_7"
-         height="2"
-         width="4"
-         y="23.5"
-         x="30"
-         class="cls-1" />
-      <path
-         style="fill:#3b3b3b"
-         inkscape:connector-curvature="0"
-         id="svg_8"
-         d="m 20,12.5 0,3 4,0 0,-1 16,0 0,1 4,0 0,-3 a 2,2 0 0 0 -2,-2 l -20,0 a 2,2 0 0 0 -2,2 z"
-         class="cls-1" />
-    </g>
-    <g
-       style="isolation:isolate;fill:#3b3b3b"
-       class="cls-1"
-       id="svg_1-7"
-       transform="translate(60.170425,327.84392)">
-      <g
-         id="Layer_1">
-        <polygon
-           style="fill:#ffffff"
-           class="cls-2"
-           points="64,16 46,10.24 46,10.24 14,0 5.74,30.68 0,52 52,64 64,38 "
-           id="svg_2-8" />
-        <g
-           style="mix-blend-mode:multiply;fill:#dedede"
-           class="cls-3"
-           id="svg_3-3">
-          <polygon
-             style="opacity:0.05;fill:#ff0000"
-             class="cls-4"
-             points="18,26 14,0 14,0 0,52 "
-             id="svg_4-9" />
-          <polygon
-             style="opacity:0.07000002;fill:#ff0000"
-             class="cls-5"
-             points="18,26 54,30 54,30 14,0 "
-             id="svg_5-0" />
-          <polygon
-             style="opacity:0.1;fill:#ff0000"
-             class="cls-6"
-             points="54,30 18,26 18,26 0,52 "
-             id="svg_6-3" />
-          <polygon
-             style="opacity:0.05;fill:#ff0000"
-             class="cls-4"
-             points="54,30 46,10.24 46,10.24 14,0 "
-             id="svg_7-1" />
-          <polygon
-             style="opacity:0.07000002;fill:#ff0000"
-             class="cls-5"
-             points="54,30 64,16 64,16 46,10.24 "
-             id="svg_8-7" />
-          <polygon
-             style="opacity:0.2;fill:#ff0000"
-             class="cls-7"
-             points="36,54 0,52 0,52 52,64 "
-             id="svg_9" />
-          <polygon
-             style="opacity:0.15;fill:#ff0000"
-             class="cls-8"
-             points="64,16 54,30 54,30 64,38 "
-             id="svg_10" />
-          <polygon
-             style="opacity:0.05;fill:#ff0000"
-             class="cls-4"
-             points="36,54 54,30 54,30 0,52 "
-             id="svg_11" />
-          <polygon
-             style="opacity:0.07000002;fill:#ff0000"
-             class="cls-5"
-             points="54,30 52,64 52,64 64,38 "
-             id="svg_12" />
-          <polygon
-             style="opacity:0.12000002;fill:#ff0000"
-             class="cls-9"
-             points="54,30 36,54 36,54 52,64 "
-             id="svg_13" />
-        </g>
-        <g
-           style="mix-blend-mode:multiply;fill:#dedede"
-           class="cls-3"
-           id="svg_14">
-          <polygon
-             style="opacity:0.2;fill:#ff0000"
-             class="cls-7"
-             points="64,16 46,10.24 14,0 33.26,14.64 64,16 "
-             id="svg_15" />
-          <polygon
-             style="opacity:0.05;fill:#ff0000"
-             class="cls-4"
-             points="22,34 33.26,14.64 33.26,14.64 14,0 "
-             id="svg_16" />
-          <polygon
-             style="opacity:0.12000002;fill:#ff0000"
-             class="cls-9"
-             points="33.26,14.64 22,34 45.49,23.93 64,16 33.26,14.64 "
-             id="svg_17" />
-          <polygon
-             style="opacity:0.15;fill:#ff0000"
-             class="cls-8"
-             points="59.38,34.49 52,64 64,38 64,16 59.38,34.49 "
-             id="svg_18" />
-          <polygon
-             style="opacity:0.2;fill:#ff0000"
-             class="cls-7"
-             points="24.3,53.47 0,52 0,52 52,64 "
-             id="svg_19" />
-          <polygon
-             style="opacity:0.07000002;fill:#ff0000"
-             class="cls-5"
-             points="23.93,53.33 22.89,42.95 22,34 0,52 24.3,53.47 23.93,53.33 "
-             id="svg_20" />
-          <polygon
-             style="opacity:0.07000002;fill:#ff0000"
-             class="cls-5"
-             points="64,16 45.49,23.93 45.49,23.93 22,34 28.58,40.58 38.57,50.57 52,64 59.38,34.49 "
-             id="svg_21" />
-          <polygon
-             style="opacity:0.1;fill:#ff0000"
-             class="cls-6"
-             points="52,64 38.57,50.57 38.57,50.57 28.58,40.58 22,34 22.89,42.95 23.93,53.33 24.3,53.47 "
-             id="svg_22" />
-          <polygon
-             style="opacity:0.05;fill:#ff0000"
-             class="cls-4"
-             points="0,52 22,34 22,34 5.74,30.68 "
-             id="svg_23" />
-          <polygon
-             style="opacity:0.1;fill:#ff0000"
-             class="cls-6"
-             points="5.75,30.64 22,34 14,0 5.74,30.68 22,34 5.75,30.64 "
-             id="svg_24" />
-        </g>
-      </g>
-    </g>
-    <g
-       id="g5172"
-       transform="translate(385.82814,567.7835)">
-      <title
-         id="title5174">Layer 1</title>
-      <path
-         class="cls-1"
-         d="M 32,0 A 20,20 0 0 0 12,20 c 0,16 12,16 12,28 l 16,0 C 40,36 52,36 52,20 A 20,20 0 0 0 32,0 Z"
-         id="svg_1-0"
-         inkscape:connector-curvature="0"
-         style="fill:#ffd214" />
-      <polygon
-         class="cls-2"
-         points="40,60 24,60 24,60 28.5,64 36,64 "
-         id="svg_2-3"
-         style="fill:#eaeaea" />
-      <rect
-         class="cls-2"
-         x="24"
-         y="56"
-         width="16"
-         height="4"
-         id="svg_3-7"
-         style="fill:#eaeaea" />
-      <polygon
-         class="cls-3"
-         points="40,52 24,56 24,56 24,60 40,56 "
-         id="svg_4-1"
-         style="fill:#dedede" />
-      <rect
-         class="cls-3"
-         x="24"
-         y="48"
-         width="16"
-         height="4"
-         id="svg_5-5"
-         style="fill:#dedede" />
-      <polygon
-         class="cls-2"
-         points="40,48 24,52 24,52 24,56 40,52 "
-         id="svg_6-37"
-         style="fill:#eaeaea" />
-      <ellipse
-         class="cls-4"
-         cx="32"
-         cy="6"
-         rx="8"
-         ry="4"
-         id="svg_7-15"
-         style="opacity:0.5;fill:#ffffff" />
-    </g>
-    <g
-       id="g4467"
-       transform="translate(265.5,179.36947)">
-      <title
-         id="title4469">Layer 1</title>
-      <path
-         class="cls-1"
-         d="M 32,16 C 24,12 4,9 0,9 l 0,45 c 4,0 24,3 32,7 8,-4 28,-7 32,-7 L 64,9 c -4,0 -24,3 -32,7 z"
-         id="svg_1-8"
-         inkscape:connector-curvature="0"
-         style="fill:#a1a1a1" />
-      <path
-         class="cls-2"
-         d="M 32,13 C 24,9 7,6 3,6 l 0,45 c 4,0 21,3 29,7 l 0,0 c 8,-4 25,-7 29,-7 L 61,6 C 57,6 40,9 32,13 Z"
-         id="svg_2-31"
-         inkscape:connector-curvature="0"
-         style="fill:#dedede" />
-      <path
-         class="cls-3"
-         d="m 32,10 0,45 c 8,-4 22,-7 26,-7 L 58,3 C 54,3 40,6 32,10 Z"
-         id="svg_3-9"
-         inkscape:connector-curvature="0"
-         style="fill:#f1f1f1" />
-      <path
-         class="cls-4"
-         d="m 6,3 0,45 c 4,0 18,3 26,7 L 32,10 C 24,6 10,3 6,3 Z"
-         id="svg_4-6"
-         inkscape:connector-curvature="0"
-         style="fill:#eaeaea" />
-      <path
-         class="cls-5"
-         d="M 28,17 A 83,83 0 0 0 10,12 l 0,-2 a 83,83 0 0 1 18,5 l 0,2 z"
-         id="svg_5-04"
-         inkscape:connector-curvature="0"
-         style="fill:#797979" />
-      <path
-         class="cls-5"
-         d="M 28,23 A 83,83 0 0 0 10,18 l 0,-2 a 83,83 0 0 1 18,5 l 0,2 z"
-         id="svg_6-2"
-         inkscape:connector-curvature="0"
-         style="fill:#797979" />
-      <path
-         class="cls-5"
-         d="M 28,29 A 83,83 0 0 0 10,24 l 0,-2 a 83,83 0 0 1 18,5 l 0,2 z"
-         id="svg_7-11"
-         inkscape:connector-curvature="0"
-         style="fill:#797979" />
-      <path
-         class="cls-5"
-         d="M 28,35 A 83,83 0 0 0 10,30 l 0,-2 a 83,83 0 0 1 18,5 l 0,2 z"
-         id="svg_8-2"
-         inkscape:connector-curvature="0"
-         style="fill:#797979" />
-      <path
-         class="cls-5"
-         d="M 28,41 A 83,83 0 0 0 10,36 l 0,-2 a 83,83 0 0 1 18,5 l 0,2 z"
-         id="svg_9-1"
-         inkscape:connector-curvature="0"
-         style="fill:#797979" />
-      <path
-         class="cls-5"
-         d="M 28,47 A 83,83 0 0 0 10,42 l 0,-2 a 83,83 0 0 1 18,5 l 0,2 z"
-         id="svg_10-8"
-         inkscape:connector-curvature="0"
-         style="fill:#797979" />
-      <path
-         class="cls-5"
-         d="m 36,17 a 83,83 0 0 1 18,-5 l 0,-2 a 83,83 0 0 0 -18,5 l 0,2 z"
-         id="svg_11-5"
-         inkscape:connector-curvature="0"
-         style="fill:#797979" />
-      <path
-         class="cls-5"
-         d="m 36,23 a 83,83 0 0 1 18,-5 l 0,-2 a 83,83 0 0 0 -18,5 l 0,2 z"
-         id="svg_12-2"
-         inkscape:connector-curvature="0"
-         style="fill:#797979" />
-      <path
-         class="cls-5"
-         d="m 36,29 a 83,83 0 0 1 18,-5 l 0,-2 a 83,83 0 0 0 -18,5 l 0,2 z"
-         id="svg_13-8"
-         inkscape:connector-curvature="0"
-         style="fill:#797979" />
-      <path
-         class="cls-5"
-         d="m 36,35 a 83,83 0 0 1 18,-5 l 0,-2 a 83,83 0 0 0 -18,5 l 0,2 z"
-         id="svg_14-4"
-         inkscape:connector-curvature="0"
-         style="fill:#797979" />
-      <path
-         class="cls-5"
-         d="m 36,41 a 83,83 0 0 1 18,-5 l 0,-2 a 83,83 0 0 0 -18,5 l 0,2 z"
-         id="svg_15-7"
-         inkscape:connector-curvature="0"
-         style="fill:#797979" />
-      <path
-         class="cls-5"
-         d="m 36,47 a 83,83 0 0 1 18,-5 l 0,-2 a 83,83 0 0 0 -18,5 l 0,2 z"
-         id="svg_16-5"
-         inkscape:connector-curvature="0"
-         style="fill:#797979" />
-    </g>
-    <g
-       transform="matrix(1.1898875,0,0,1.2188753,46.182455,467.92691)"
-       id="g3348">
-      <title
-         id="title3350">Page-1</title>
-      <g
-         transform="translate(23.0306,-35.4211)"
-         id="group60-1">
-        <title
-           id="title3353">Task list or Backlog</title>
-        <g
-           id="group61-2">
-          <title
-             id="title3356">Document (stackable)</title>
-          <g
-             id="shape62-3">
-            <title
-               id="title3359">Sheet.62</title>
-            <path
-               style="fill:#ffffff;stroke:#ffffff;stroke-width:5.74888277;stroke-miterlimit:3"
-               inkscape:connector-curvature="0"
-               id="path3361"
-               d="m 92.4,122.2 -23.5,0 0,42.8 34.2,0 0,-32.1 -10.7,-10.7 z"
-               stroke-miterlimit="3" />
-          </g>
-          <g
-             id="shape63-5">
-            <title
-               id="title3364">Sheet.63</title>
-            <path
-               style="fill:#ffffff"
-               inkscape:connector-curvature="0"
-               id="path3366"
-               d="m 92.4,122.2 -23.5,0 0,42.8 34.2,0 0,-32.1 -10.7,-10.7 z" />
-          </g>
-          <g
-             id="shape64-7">
-            <title
-               id="title3369">Sheet.64</title>
-            <path
-               style="fill:#a5a5a5"
-               inkscape:connector-curvature="0"
-               id="path3371"
-               d="m 92.4,122.2 -23.5,0 0,42.8 34.2,0 0,-32.1 -10.7,-10.7 z m 8.6,40.6 -29.9,0 0,-38.5 20.3,0 0,9.6 9.6,0 0,28.9 z" />
-          </g>
-          <g
-             transform="translate(8.24392,-15.8336)"
-             id="shape65-9">
-            <title
-               id="title3374">Sheet.65</title>
-            <rect
-               style="fill:#a5a5a5"
-               id="rect3376"
-               height="2.0999999"
-               width="14.5"
-               y="155.10001"
-               x="72.900002" />
-          </g>
-          <g
-             transform="translate(8.24392,-12.235)"
-             id="shape66-11">
-            <title
-               id="title3379">Sheet.66</title>
-            <rect
-               style="fill:#a5a5a5"
-               id="rect3381"
-               height="2.0999999"
-               width="14.5"
-               y="156.8"
-               x="72.900002" />
-          </g>
-          <g
-             transform="translate(8.24392,-8.63649)"
-             id="shape67-13">
-            <title
-               id="title3384">Sheet.67</title>
-            <rect
-               style="fill:#a5a5a5"
-               id="rect3386"
-               height="2.0999999"
-               width="14.5"
-               y="158.60001"
-               x="72.900002" />
-          </g>
-          <g
-             transform="translate(8.24392,-5.03795)"
-             id="shape68-15">
-            <title
-               id="title3389">Sheet.68</title>
-            <rect
-               style="fill:#a5a5a5"
-               id="rect3391"
-               height="2.0999999"
-               width="14.5"
-               y="160.3"
-               x="72.900002" />
-          </g>
-          <g
-             id="shape69-17">
-            <title
-               id="title3394">_x3C_Slice_x3E__179_</title>
-            <rect
-               style="fill:none"
-               id="rect3396"
-               height="42.700001"
-               width="34.200001"
-               y="122.2"
-               x="68.900002" />
-          </g>
-        </g>
-        <g
-           transform="translate(4.04789,-15.4184)"
-           id="shape70-19">
-          <title
-             id="title3399">Sheet.70</title>
-          <rect
-             style="fill:#ffffff;stroke:#a5a5a5;stroke-width:1.91629422;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3"
-             id="rect3401"
-             height="3.4000001"
-             width="3.3"
-             stroke-miterlimit="3"
-             y="154.10001"
-             x="70.900002" />
-        </g>
-        <g
-           transform="translate(4.04789,-11.8198)"
-           id="shape71-21">
-          <title
-             id="title3404">Sheet.71</title>
-          <rect
-             style="fill:#ffffff;stroke:#a5a5a5;stroke-width:1.91629422;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3"
-             id="rect3406"
-             height="3.4000001"
-             width="3.3"
-             stroke-miterlimit="3"
-             y="155.8"
-             x="70.900002" />
-        </g>
-        <g
-           transform="translate(4.04789,-8.22129)"
-           id="shape72-23">
-          <title
-             id="title3409">Sheet.72</title>
-          <rect
-             style="fill:#ffffff;stroke:#a5a5a5;stroke-width:1.91629422;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3"
-             id="rect3411"
-             height="3.4000001"
-             width="3.3"
-             stroke-miterlimit="3"
-             y="157.60001"
-             x="70.900002" />
-        </g>
-        <g
-           transform="translate(4.04789,-4.62276)"
-           id="shape73-25">
-          <title
-             id="title3414">Sheet.73</title>
-          <rect
-             style="fill:#ffffff;stroke:#a5a5a5;stroke-width:1.91629422;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3"
-             id="rect3416"
-             height="3.4000001"
-             width="3.3"
-             stroke-miterlimit="3"
-             y="159.3"
-             x="70.900002" />
-        </g>
-        <g
-           transform="translate(4.04789,-15.8336)"
-           id="group74-27">
-          <title
-             id="title3419">Checkmark / success.11017</title>
-          <g
-             transform="matrix(0.8660254,0.5,-0.5,0.8660254,32.8547,7.89926)"
-             id="shape75-28">
-            <title
-               id="title3422">Sheet.75</title>
-            <rect
-               style="fill:#92d050"
-               id="rect3424"
-               height="0.89999998"
-               width="2.7"
-               y="108.3"
-               x="106.9" />
-          </g>
-          <g
-             transform="matrix(0.5,-0.8660254,0.8660254,0.5,-55.3002,32.8547)"
-             id="shape76-30">
-            <title
-               id="title3427">Sheet.76</title>
-            <rect
-               style="fill:#92d050"
-               id="rect3429"
-               height="0.89999998"
-               width="6.6999998"
-               y="172.7"
-               x="-43.400002" />
-          </g>
-        </g>
-        <g
-           transform="translate(4.04789,-12.3001)"
-           id="group77-32">
-          <title
-             id="title3432">Checkmark / success.11024</title>
-          <g
-             transform="matrix(0.8660254,0.5,-0.5,0.8660254,32.8547,7.89926)"
-             id="shape78-33">
-            <title
-               id="title3435">Sheet.78</title>
-            <rect
-               style="fill:#92d050"
-               id="rect3437"
-               height="0.89999998"
-               width="2.7"
-               y="109.8"
-               x="107.8" />
-          </g>
-          <g
-             transform="matrix(0.5,-0.8660254,0.8660254,0.5,-55.3002,32.8547)"
-             id="shape79-35">
-            <title
-               id="title3440">Sheet.79</title>
-            <rect
-               style="fill:#92d050"
-               id="rect3442"
-               height="0.89999998"
-               width="6.6999998"
-               y="173.5"
-               x="-44.900002" />
-          </g>
-        </g>
-      </g>
-    </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text7542-0-1"
-       y="646.97656"
-       x="419.88165"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:segoe-ui_normal, 'Segoe UI', Segoe, 'Segoe WP', 'Helvetica Neue', Helvetica, sans-serif;-inkscape-font-specification:'segoe-ui_normal, Segoe UI, Segoe, Segoe WP, Helvetica Neue, Helvetica, sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="646.97656"
-         x="419.88165"
-         sodipodi:role="line"
-         id="tspan5462-4">Best Practices</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text7542-0-1-0"
-       y="641.81787"
-       x="175.53329"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:segoe-ui_normal, 'Segoe UI', Segoe, 'Segoe WP', 'Helvetica Neue', Helvetica, sans-serif;-inkscape-font-specification:'segoe-ui_normal, Segoe UI, Segoe, Segoe WP, Helvetica Neue, Helvetica, sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="641.81787"
-         x="175.53329"
-         sodipodi:role="line"
-         id="tspan5462-4-6">Design Review</tspan><tspan
-         y="655.88037"
-         x="175.53329"
-         sodipodi:role="line"
-         id="tspan5615">Checklists</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-size:11.25px;line-height:125%;font-family:segoe-ui_normal, 'Segoe UI', Segoe, 'Segoe WP', 'Helvetica Neue', Helvetica, sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="115.14285"
-       y="187.93362"
-       id="text5617"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5619"
-         x="115.14285"
-         y="187.93362" /></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text7542-0-1-0-0"
-       y="410.75677"
-       x="93.254715"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:segoe-ui_normal, 'Segoe UI', Segoe, 'Segoe WP', 'Helvetica Neue', Helvetica, sans-serif;-inkscape-font-specification:'segoe-ui_normal, Segoe UI, Segoe, Segoe WP, Helvetica Neue, Helvetica, sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="410.75677"
-         x="93.254715"
-         sodipodi:role="line"
-         id="tspan5615-5">Cloud Design</tspan><tspan
-         y="424.81927"
-         x="93.254715"
-         sodipodi:role="line"
-         id="tspan5644">Patterns</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:segoe-ui_normal, 'Segoe UI', Segoe, 'Segoe WP', 'Helvetica Neue', Helvetica, sans-serif;-inkscape-font-specification:'segoe-ui_normal, Segoe UI, Segoe, Segoe WP, Helvetica Neue, Helvetica, sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="297.67349"
-       y="162.10335"
-       id="text5899"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5903"
-         x="297.67349"
-         y="162.10335">Reference</tspan><tspan
-         sodipodi:role="line"
-         id="tspan5905"
-         x="297.67349"
-         y="176.16585">Architectures</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text5913"
-       y="406.56027"
-       x="511.82584"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:segoe-ui_normal, 'Segoe UI', Segoe, 'Segoe WP', 'Helvetica Neue', Helvetica, sans-serif;-inkscape-font-specification:'segoe-ui_normal, Segoe UI, Segoe, Segoe WP, Helvetica Neue, Helvetica, sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan5919"
-         x="511.82584"
-         y="406.56027">Compute,</tspan><tspan
-         sodipodi:role="line"
-         id="tspan5921"
-         x="511.82584"
-         y="420.62277">Storage</tspan></text>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg4157" inkscape:version="0.91 r13725" sodipodi:docname="guide-steps.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456 465"
+	 style="enable-background:new 0 0 456 465;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#7CABBF;stroke-width:10;stroke-linecap:round;}
+	.st1{fill:#7CABBF;}
+	.st2{fill:none;stroke:#D2E4F2;stroke-width:3.6;stroke-linecap:round;}
+	.st3{fill:none;}
+	.st4{fill:#5DA2D7;stroke:#5DA2D7;}
+	.st5{fill:#DEDEDE;}
+	.st6{fill:#EAEAEA;}
+	.st7{fill:#FFFFFF;}
+	.st8{fill:#3899C5;}
+	.st9{fill:#58B6DA;}
+	.st10{fill:#1881CE;}
+	.st11{fill:#0271C5;}
+	.st12{fill:#797979;}
+	.st13{fill:#FFFFFF;stroke:#3C3C3C;stroke-width:1.5;stroke-linecap:round;}
+	.st14{font-family:'Arial-BoldMT';}
+	.st15{font-size:10px;}
+	.st16{fill:#3B3B3B;}
+	.st17{fill:#BA1418;}
+	.st18{opacity:5.000000e-02;fill:#FF0000;enable-background:new    ;}
+	.st19{opacity:7.000002e-02;fill:#FF0000;enable-background:new    ;}
+	.st20{opacity:0.1;fill:#FF0000;enable-background:new    ;}
+	.st21{opacity:0.2;fill:#FF0000;enable-background:new    ;}
+	.st22{opacity:0.15;fill:#FF0000;enable-background:new    ;}
+	.st23{opacity:0.12;fill:#FF0000;enable-background:new    ;}
+	.st24{fill:#FFD214;}
+	.st25{opacity:0.5;fill:#FFFFFF;enable-background:new    ;}
+	.st26{font-family:'SegoeUI';}
+	.st27{font-size:9px;}
+	.st28{font-size:8.6198px;}
+	.st29{fill:#F1F1F1;}
+	.st30{enable-background:new    ;}
+	.st31{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:3;}
+	.st32{fill:#828293;}
+	.st33{fill:#666666;}
+	.st34{fill:none;stroke:#078431;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g>
+	<g id="circle5592_1_">
+		<g>
+			<path class="st0" d="M321.2,216.8c3.2,10,5,20.7,5,31.8c0,14.2-2.9,27.7-8.1,40.1"/>
+			<g>
+				<polygon class="st1" points="330.9,292.8 306.8,281.2 313,299 				"/>
+			</g>
+		</g>
+	</g>
+	<g id="circle5592_4_">
+		<g>
+			<path class="st0" d="M284.5,330.3c-8.5,6.2-18.1,11.2-28.7,14.6c-13.5,4.4-27.3,5.8-40.6,4.7"/>
+			<g>
+				<polygon class="st1" points="215.2,362.9 218.8,336.5 203.8,347.9 				"/>
+			</g>
+		</g>
+	</g>
+	<g id="circle5592_6_">
+		<g>
+			<path class="st0" d="M165.7,332.7c-8.5-6.2-16.2-13.8-22.7-22.8c-8.4-11.5-14-24.1-17-37.2"/>
+			<g>
+				<polygon class="st1" points="113.2,276.8 139.5,272.1 124,261.3 				"/>
+			</g>
+		</g>
+	</g>
+	<g id="circle5592_2_">
+		<g>
+			<path class="st0" d="M222.5,147.2c10.5,0,21.2,1.6,31.8,5.1c13.5,4.4,25.5,11.3,35.6,20.1"/>
+			<g>
+				<polygon class="st1" points="297.8,161.5 279.2,180.7 298.1,180.4 				"/>
+			</g>
+		</g>
+	</g>
+	<g id="circle5592_8_">
+		<g>
+			<path class="st0" d="M127.3,218c3.3-10,8.1-19.7,14.6-28.6c5.7-7.8,12.3-14.6,19.5-20.3"/>
+			<g>
+				<polygon class="st1" points="152.3,159.3 167.8,181 170.9,162.4 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" id="base" inkscape:current-layer="layer1" inkscape:cx="190.78389" inkscape:cy="237.66062" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="801" inkscape:window-maximized="1" inkscape:window-width="1536" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="0.98994949" pagecolor="#ffffff" showgrid="false">
+	<inkscape:grid  id="grid5245" originx="-39.921327" originy="-33.350011" type="xygrid"></inkscape:grid>
+</sodipodi:namedview>
+<ellipse id="circle5592" transform="matrix(0.309 -0.9511 0.9511 0.309 -79.7938 386.0886)" class="st2" cx="225.8" cy="248" rx="173.3" ry="173.3"/>
+<path class="st3" d=""/>
+<path class="st3" d=""/>
+<path id="path4809" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" class="st4" d="M207.2,260.9"/>
+<g id="g4320" transform="matrix(2.8861607,0,0,2.8861607,205.14286,337.49479)">
+	<path id="path9" inkscape:connector-curvature="0" class="st5" d="M7.2-56.6C-7-56.6-18.4-45.2-18.4-31S-7-5.4,7.2-5.4
+		S32.8-16.9,32.8-31S21.3-56.6,7.2-56.6z M7.2-7c-13.3,0-24-10.7-24-24s10.7-24,24-24s24,10.7,24,24S20.4-7,7.2-7z"/>
+	<circle id="circle11" class="st6" cx="7.2" cy="-31" r="24"/>
+	<polygon id="polygon13" class="st5" points="7.2,-53.4 2.9,-38.6 2.9,-38.6 5.8,-37 7.2,-36.3 7.2,-37.4 	"/>
+	<polygon id="polygon15" class="st5" points="8.5,-25 7.3,-25.7 7.2,-25.7 7.2,-25.6 7.2,-24.6 7.2,-8.6 11.4,-23.4 	"/>
+	<polygon id="polygon17" class="st7" points="7.2,-53.4 11.4,-38.6 11.4,-38.6 8.5,-37 7.2,-36.3 7.2,-37.4 	"/>
+	<polygon id="polygon19" class="st7" points="5.8,-25 7,-25.7 7.2,-25.7 7.2,-25.6 7.2,-24.6 7.2,-8.6 2.9,-23.4 	"/>
+	<polygon id="polygon21" class="st5" points="-15.2,-31 -0.5,-26.8 -0.5,-26.8 1.1,-29.7 1.9,-31 0.8,-31 	"/>
+	<polygon id="polygon23" class="st5" points="13.2,-32.4 12.5,-31.1 12.4,-31 12.6,-31 13.6,-31 29.6,-31 14.8,-35.2 	"/>
+	<polygon id="polygon25" class="st7" points="-15.2,-31 -0.5,-35.2 -0.5,-35.2 1.1,-32.4 1.9,-31 0.8,-31 	"/>
+	<polygon id="polygon27" class="st7" points="13.2,-29.7 12.5,-30.9 12.4,-31 12.6,-31 13.6,-31 29.6,-31 14.8,-26.8 	"/>
+	<polygon id="polygon29" class="st5" points="1.9,-31 1.9,-31 7.2,-31 -4.7,-42.9 -4.7,-42.9 	"/>
+	<polygon id="polygon31" class="st7" points="1.9,-31 1.9,-31 7.2,-31 -4.7,-19.1 -4.7,-19.1 	"/>
+	<polygon id="polygon33" class="st5" points="7.2,-25.7 7.2,-25.8 7.2,-31 -4.7,-19.1 -4.7,-19.1 	"/>
+	<polygon id="polygon35" class="st7" points="7.2,-25.7 7.2,-25.8 7.2,-31 19,-19.1 19,-19.1 	"/>
+	<polygon id="polygon37" class="st5" points="12.4,-31 12.4,-31 7.2,-31 19,-19.1 19,-19.1 	"/>
+	<polygon id="polygon39" class="st7" points="12.4,-31 12.4,-31 7.2,-31 19,-42.9 19,-42.9 	"/>
+	<polygon id="polygon41" class="st5" points="7.2,-36.3 7.2,-36.2 7.2,-31 19,-42.9 19,-42.9 	"/>
+	<polygon id="polygon43" class="st7" points="7.2,-36.3 7.2,-36.2 7.2,-31 -4.7,-42.9 -4.7,-42.9 	"/>
+	<polygon id="polygon45" class="st8" points="-8.6,-15.1 10.4,-27.8 23.1,-46.8 4,-34.2 4,-34.2 	"/>
+	<polygon id="polygon47" class="st9" points="-8.6,-15.1 10.4,-27.8 7.2,-31 	"/>
+	<polygon id="polygon49" class="st10" points="23.1,-46.8 4,-34.2 7.2,-31 	"/>
+	<polygon id="polygon51" class="st11" points="23.1,-46.8 10.4,-27.8 7.1,-31.1 	"/>
+	<circle id="circle53" class="st12" cx="7.2" cy="-31" r="1.6"/>
+</g>
+<ellipse id="circle5309" transform="matrix(0.9511 -0.309 0.309 0.9511 -51.255 110.0113)" class="st13" cx="321.7" cy="216.8" rx="35.1" ry="35.1"/>
+<path class="st3" d=""/>
+<path id="path5173" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" class="st4" d="M68.9,192.5"/>
+<path class="st3" d=""/>
+<path class="st3" d=""/>
+<path id="path5185" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" class="st4" d="M218.5,169.2"/>
+<circle id="path4715" class="st13" cx="225.8" cy="147.2" r="45.4"/>
+<text transform="matrix(1 0 0 1 196.5151 144.0547)" class="st14 st15">Architecture</text>
+<text transform="matrix(1 0 0 1 211.2368 156.5547)" class="st14 st15">Styles</text>
+<ellipse id="circle4731" transform="matrix(0.309 -0.9511 0.9511 0.309 -116.4085 273.4)" class="st13" cx="129.9" cy="216.8" rx="35.1" ry="35.1"/>
+<ellipse id="circle4743" transform="matrix(0.5878 -0.809 0.809 0.5878 -197.1129 272.5135)" class="st13" cx="168.9" cy="329.7" rx="35.1" ry="35.1"/>
+<ellipse id="circle4749" transform="matrix(0.809 -0.5878 0.5878 0.809 -138.7015 229.0618)" class="st13" cx="283.1" cy="328" rx="35.1" ry="35.1"/>
+<text transform="matrix(1 0 0 1 293.9126 214.7256)" class="st14 st15">Technology</text>
+<text transform="matrix(1 0 0 1 302.1475 227.2256)" class="st14 st15">Choices</text>
+<text transform="matrix(1 0 0 1 266.311 324.9863)" class="st14 st15">Design</text>
+<text transform="matrix(1 0 0 1 259.082 337.4863)" class="st14 st15">Principles</text>
+<text transform="matrix(1 0 0 1 151.752 327.5986)" class="st14 st15">Quality</text>
+<text transform="matrix(1 0 0 1 153.6904 340.0986)" class="st14 st15">Pillars</text>
+<text transform="matrix(1 0 0 1 113.0684 214.7002)" class="st14 st15">Design</text>
+<text transform="matrix(1 0 0 1 109.731 227.2002)" class="st14 st15">Patterns</text>
+<g id="g4442" transform="matrix(1.0996678,0,0,1.0996678,475.91503,328.79741)">
+	<title  id="title4444">Layer 1</title>
+	<polygon id="svg_1" class="st16" points="-97.6,-126.6 -46.4,-126.6 -46.4,-126.6 -49.9,-121.8 -94.7,-121.8 	"/>
+	<path id="svg_2" inkscape:connector-curvature="0" class="st17" d="M-97.6-121.8h51.2v16c0,0.9-0.7,1.6-1.6,1.6h-48
+		c-0.9,0-1.6-0.7-1.6-1.6V-121.8z"/>
+	<path id="svg_3" inkscape:connector-curvature="0" class="st17" d="M-96-134.6h48c0.9,0,1.6,0.7,1.6,1.6v6.4h-51.2v-6.4
+		C-97.6-133.9-96.9-134.6-96-134.6z"/>
+	<rect id="svg_4" x="-75.2" y="-121.8" class="st5" width="6.4" height="3.2"/>
+	<rect id="svg_5" x="-73.6" y="-121.8" class="st16" width="3.2" height="1.6"/>
+	<rect id="svg_6" x="-75.2" y="-129.8" class="st5" width="6.4" height="3.2"/>
+	<rect id="svg_7" x="-73.6" y="-128.2" class="st16" width="3.2" height="1.6"/>
+	<path id="svg_8" inkscape:connector-curvature="0" class="st16" d="M-81.6-137v2.4h3.2v-0.8h12.8v0.8h3.2v-2.4
+		c0-0.9-0.7-1.6-1.6-1.6h-16C-80.9-138.6-81.6-137.9-81.6-137z"/>
+</g>
+<g id="svg_1-7" transform="translate(60.170425,327.84392)">
+	<g id="Layer_1">
+		<polygon id="svg_2-8" class="st7" points="27,-148.7 12.6,-153.3 12.6,-153.3 -13,-161.5 -19.6,-136.9 -24.2,-119.9 17.4,-110.3 
+			27,-131.1 		"/>
+		<g id="svg_3-3">
+			<polygon id="svg_4-9" class="st18" points="-9.8,-140.7 -13,-161.5 -13,-161.5 -24.2,-119.9 			"/>
+			<polygon id="svg_5-0" class="st19" points="-9.8,-140.7 19,-137.5 19,-137.5 -13,-161.5 			"/>
+			<polygon id="svg_6-3" class="st20" points="19,-137.5 -9.8,-140.7 -9.8,-140.7 -24.2,-119.9 			"/>
+			<polygon id="svg_7-1" class="st18" points="19,-137.5 12.6,-153.3 12.6,-153.3 -13,-161.5 			"/>
+			<polygon id="svg_8-7" class="st19" points="19,-137.5 27,-148.7 27,-148.7 12.6,-153.3 			"/>
+			<polygon id="svg_9" class="st21" points="4.6,-118.3 -24.2,-119.9 -24.2,-119.9 17.4,-110.3 			"/>
+			<polygon id="svg_10" class="st22" points="27,-148.7 19,-137.5 19,-137.5 27,-131.1 			"/>
+			<polygon id="svg_11" class="st18" points="4.6,-118.3 19,-137.5 19,-137.5 -24.2,-119.9 			"/>
+			<polygon id="svg_12" class="st19" points="19,-137.5 17.4,-110.3 17.4,-110.3 27,-131.1 			"/>
+			<polygon id="svg_13" class="st23" points="19,-137.5 4.6,-118.3 4.6,-118.3 17.4,-110.3 			"/>
+		</g>
+		<g id="svg_14">
+			<polygon id="svg_15" class="st21" points="27,-148.7 12.6,-153.3 -13,-161.5 2.4,-149.8 			"/>
+			<polygon id="svg_16" class="st18" points="-6.6,-134.3 2.4,-149.8 2.4,-149.8 -13,-161.5 			"/>
+			<polygon id="svg_17" class="st23" points="2.4,-149.8 -6.6,-134.3 12.2,-142.3 27,-148.7 			"/>
+			<polygon id="svg_18" class="st22" points="23.3,-133.9 17.4,-110.3 27,-131.1 27,-148.7 			"/>
+			<polygon id="svg_19" class="st21" points="-4.8,-118.7 -24.2,-119.9 -24.2,-119.9 17.4,-110.3 			"/>
+			<polygon id="svg_20" class="st19" points="-5.1,-118.8 -5.9,-127.1 -6.6,-134.3 -24.2,-119.9 -4.8,-118.7 			"/>
+			<polygon id="svg_21" class="st19" points="27,-148.7 12.2,-142.3 12.2,-142.3 -6.6,-134.3 -1.4,-129 6.6,-121 17.4,-110.3 
+				23.3,-133.9 			"/>
+			<polygon id="svg_22" class="st20" points="17.4,-110.3 6.6,-121 6.6,-121 -1.4,-129 -6.6,-134.3 -5.9,-127.1 -5.1,-118.8 
+				-4.8,-118.7 			"/>
+			<polygon id="svg_23" class="st18" points="-24.2,-119.9 -6.6,-134.3 -6.6,-134.3 -19.6,-136.9 			"/>
+			<polygon id="svg_24" class="st20" points="-19.6,-137 -6.6,-134.3 -13,-161.5 -19.6,-136.9 -6.6,-134.3 			"/>
+		</g>
+	</g>
+</g>
+<g id="g5172" transform="translate(385.82814,567.7835)">
+	<title  id="title5174">Layer 1</title>
+	<path id="svg_1-0" inkscape:connector-curvature="0" class="st24" d="M-54.8-209.5c-8.8,0-16,7.2-16,16c0,12.8,9.6,12.8,9.6,22.4
+		h12.8c0-9.6,9.6-9.6,9.6-22.4C-38.8-202.3-45.9-209.5-54.8-209.5z"/>
+	<polygon id="svg_2-3" class="st6" points="-48.4,-161.5 -61.2,-161.5 -61.2,-161.5 -57.6,-158.3 -51.6,-158.3 	"/>
+	<rect id="svg_3-7" x="-61.2" y="-164.7" class="st6" width="12.8" height="3.2"/>
+	<polygon id="svg_4-1" class="st5" points="-48.4,-167.9 -61.2,-164.7 -61.2,-164.7 -61.2,-161.5 -48.4,-164.7 	"/>
+	<rect id="svg_5-5" x="-61.2" y="-171.1" class="st5" width="12.8" height="3.2"/>
+	<polygon id="svg_6-37" class="st6" points="-48.4,-171.1 -61.2,-167.9 -61.2,-167.9 -61.2,-164.7 -48.4,-167.9 	"/>
+	<ellipse id="svg_7-15" class="st25" cx="-54.8" cy="-204.7" rx="6.4" ry="3.2"/>
+</g>
+<text transform="matrix(1 0 0 1 303.9512 421.6572)" class="st26 st27">Best Practices</text>
+<text transform="matrix(1 0 0 1 90.0409 421.6572)" class="st26 st27">Design Review</text>
+<text transform="matrix(1 0 0 1 99.5487 432.9072)" class="st26 st27">Checklists</text>
+<g>
+	<rect id="rect5870" x="21" y="220.2" class="st7" width="65.1" height="28.1"/>
+	<text transform="matrix(1 0 0 1 27.6529 231.1579)" class="st26 st28">Cloud Design</text>
+	<text transform="matrix(1 0 0 1 37.4761 241.9323)" class="st26 st28">Patterns</text>
+</g>
+<text transform="matrix(1 0 0 1 205.1826 33.7588)" class="st26 st27">Reference</text>
+<text transform="matrix(1 0 0 1 199.6851 45.0088)" class="st26 st27">Architectures</text>
+<g>
+	<path class="st11" d="M225.8,61.6c-6.6-3.3-23.2-5.8-26.5-5.8v37.3c3.3,0,19.9,2.5,26.5,5.8c6.6-3.3,23.2-5.8,26.5-5.8V55.8
+		C249,55.8,232.4,58.3,225.8,61.6z"/>
+	<path class="st5" d="M225.8,59.1c-6.6-3.3-20.7-5.8-24-5.8v37.3c3.3,0,17.4,2.5,24,5.8l0,0c6.6-3.3,20.7-5.8,24-5.8V53.3
+		C246.5,53.3,232.4,55.8,225.8,59.1z"/>
+	<path class="st29" d="M225.8,56.6v37.3c6.6-3.3,18.2-5.8,21.6-5.8V50.8C244,50.8,232.4,53.3,225.8,56.6z"/>
+	<path class="st6" d="M204.2,50.8v37.3c3.3,0,14.9,2.5,21.6,5.8V56.6C219.2,53.3,207.6,50.8,204.2,50.8z"/>
+	<path class="st12" d="M222.5,62.4c-4.8-1.9-9.8-3.3-14.9-4.1v-1.7c5.1,0.8,10.1,2.2,14.9,4.1V62.4z"/>
+	<path class="st12" d="M222.5,67.4c-4.8-1.9-9.8-3.3-14.9-4.1v-1.7c5.1,0.8,10.1,2.2,14.9,4.1V67.4z"/>
+	<path class="st12" d="M222.5,72.3c-4.8-1.9-9.8-3.3-14.9-4.1v-1.7c5.1,0.8,10.1,2.2,14.9,4.1V72.3z"/>
+	<path class="st12" d="M222.5,77.3c-4.8-1.9-9.8-3.3-14.9-4.1v-1.7c5.1,0.8,10.1,2.2,14.9,4.1V77.3z"/>
+	<path class="st12" d="M222.5,82.3c-4.8-1.9-9.8-3.3-14.9-4.1v-1.7c5.1,0.8,10.1,2.2,14.9,4.1V82.3z"/>
+	<path class="st12" d="M222.5,87.3c-4.8-1.9-9.8-3.3-14.9-4.1v-1.7c5.1,0.8,10.1,2.2,14.9,4.1V87.3z"/>
+	<path class="st12" d="M229.1,62.4c4.8-1.9,9.8-3.3,14.9-4.1v-1.7c-5.1,0.8-10.1,2.2-14.9,4.1V62.4z"/>
+	<path class="st12" d="M229.1,67.4c4.8-1.9,9.8-3.3,14.9-4.1v-1.7c-5.1,0.8-10.1,2.2-14.9,4.1V67.4z"/>
+	<path class="st12" d="M229.1,72.3c4.8-1.9,9.8-3.3,14.9-4.1v-1.7c-5.1,0.8-10.1,2.2-14.9,4.1V72.3z"/>
+	<path class="st12" d="M229.1,77.3c4.8-1.9,9.8-3.3,14.9-4.1v-1.7c-5.1,0.8-10.1,2.2-14.9,4.1V77.3z"/>
+	<path class="st12" d="M229.1,82.3c4.8-1.9,9.8-3.3,14.9-4.1v-1.7c-5.1,0.8-10.1,2.2-14.9,4.1V82.3z"/>
+	<path class="st12" d="M229.1,87.3c4.8-1.9,9.8-3.3,14.9-4.1v-1.7c-5.1,0.8-10.1,2.2-14.9,4.1V87.3z"/>
+</g>
+<g>
+	<rect id="rect5887" x="367" y="219.6" class="st7" width="64.6" height="27.3"/>
+	<text transform="matrix(1.0059 0 0 1 372.627 229.2002)" class="st30"><tspan x="0" y="0" class="st26 st27">Compute and</tspan><tspan x="-4.5" y="10.8" class="st26 st27">Storage options</tspan></text>
+</g>
+<path class="st2" d="M225.8,352.4"/>
+<title  id="title3364">Sheet.63</title>
+<g>
+	<g id="shape62-3_1_">
+		<title  id="title3359">Sheet.62</title>
+		<path id="path3361_1_" inkscape:connector-curvature="0" class="st31" d="M126.6,360.7h-25.2v45.9h36.7v-34.4L126.6,360.7
+			L126.6,360.7z"/>
+	</g>
+	<path id="path3366_1_" inkscape:connector-curvature="0" class="st7" d="M126.6,360.7h-25.2v45.9h36.7v-34.4L126.6,360.7
+		L126.6,360.7z"/>
+	<path id="path3371_1_" inkscape:connector-curvature="0" class="st32" d="M126.6,360.7h-25.2v45.9h36.7v-34.4L126.6,360.7
+		L126.6,360.7z M135.8,404.2h-32V363h21.8v10.3h10.3V404.2L135.8,404.2z"/>
+	<g id="shape69-17_1_">
+		<title  id="title3394">_x3C_Slice_x3E__179_</title>
+		<rect id="rect3396_1_" x="101.4" y="360.7" class="st3" width="36.7" height="45.8"/>
+	</g>
+	<g>
+		<g id="rect3406_2_">
+			<rect x="108.6" y="381.8" class="st7" width="4.1" height="4.2"/>
+			<path class="st33" d="M108.6,381.8c1.3-0.1,2.6-0.2,4.1-0.2c0.1,0,0.2,0.1,0.2,0.2v0c0,0.7,0,1.4,0,2.1c0,0.3,0,0.7,0,1v1
+				c0,0.2-0.1,0.3-0.3,0.3l0,0l-2,0c-0.7,0-1.3,0-2,0h0c-0.1,0-0.2-0.1-0.2-0.2c0-0.7,0-1.4,0.1-2.2L108.6,381.8z M108.6,381.8
+				l0.1,2.2c0,0.7,0.1,1.4,0.1,2l-0.2-0.2c0.7,0,1.3,0,2,0l2,0l-0.3,0.3v-1c0-0.3,0-0.7,0-1c0-0.7,0-1.4,0-2.1l0.2,0.2
+				C111.4,382,110,381.9,108.6,381.8z"/>
+		</g>
+		<g>
+			<path class="st33" d="M115.2,383.4l19,0.9l-19,0.9c-0.5,0-1-0.4-1-0.9C114.2,383.9,114.6,383.4,115.2,383.4
+				C115.1,383.4,115.2,383.4,115.2,383.4z"/>
+		</g>
+	</g>
+	<path class="st34" d="M106.7,382.1c0,0,2.2,1.2,3.6,2.2c2.6-8.6,5.7-9.1,5.7-9.1"/>
+	<g>
+		<g id="rect3406_1_">
+			<rect x="108.4" y="388.3" class="st7" width="4.1" height="4.2"/>
+			<path class="st33" d="M108.4,388.3c1.3-0.1,2.6-0.2,4.1-0.2c0.1,0,0.2,0.1,0.2,0.2v0c0,0.7,0,1.4,0,2.1c0,0.3,0,0.7,0,1v1
+				c0,0.2-0.1,0.3-0.3,0.3l0,0l-2,0c-0.7,0-1.3,0-2,0h0c-0.1,0-0.2-0.1-0.2-0.2c0-0.7,0-1.4,0.1-2.2L108.4,388.3z M108.4,388.3
+				l0.1,2.2c0,0.7,0.1,1.4,0.1,2l-0.2-0.2c0.7,0,1.3,0,2,0l2,0l-0.3,0.3v-1c0-0.3,0-0.7,0-1c0-0.7,0-1.4,0-2.1l0.2,0.2
+				C111.1,388.5,109.8,388.4,108.4,388.3z"/>
+		</g>
+		<g>
+			<path class="st33" d="M114.9,390l19,0.9l-19,0.9c-0.5,0-1-0.4-1-0.9S114.3,390,114.9,390C114.9,389.9,114.9,389.9,114.9,390z"/>
+		</g>
+	</g>
+	<g>
+		<g id="rect3406_3_">
+			<rect x="108.4" y="395.2" class="st7" width="4.1" height="4.2"/>
+			<path class="st33" d="M108.4,395.2c1.3-0.1,2.6-0.2,4.1-0.2c0.1,0,0.2,0.1,0.2,0.2v0c0,0.7,0,1.4,0,2.1c0,0.3,0,0.7,0,1v1
+				c0,0.2-0.1,0.3-0.3,0.3l0,0l-2,0c-0.7,0-1.3,0-2,0h0c-0.1,0-0.2-0.1-0.2-0.2c0-0.7,0-1.4,0.1-2.2L108.4,395.2z M108.4,395.2
+				l0.1,2.2c0,0.7,0.1,1.4,0.1,2l-0.2-0.2c0.7,0,1.3,0,2,0l2,0l-0.3,0.3v-1c0-0.3,0-0.7,0-1c0-0.7,0-1.4,0-2.1l0.2,0.2
+				C111.1,395.3,109.8,395.2,108.4,395.2z"/>
+		</g>
+		<g>
+			<path class="st33" d="M114.9,396.8l19,0.9l-19,0.9c-0.5,0-1-0.4-1-0.9S114.3,396.8,114.9,396.8
+				C114.9,396.8,114.9,396.8,114.9,396.8z"/>
+		</g>
+	</g>
+</g>
 </svg>
