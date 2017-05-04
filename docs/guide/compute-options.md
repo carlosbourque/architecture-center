@@ -18,7 +18,7 @@ The following tables compare Azure compute services across several comparison cr
 | State management | Stateless or Stateful | Stateless | Stateless or stateful | Stateless | Stateless or Stateful | Stateless | Stateless |
 | Web hosting | Agnostic | Built in | Self-host, IIS in containers | Not applicable | Agnostic | Built-in (IIS) | No |
 | OS | Windows, Linux | Windows, Linux (preview)  | Windows, Linux  (preview) | Not applicable | Windows,  Linux | Windows | Windows, Linux |
-| Dedicated network | Supported | Supported <a href="#note5"><sup>5</sup></a> | Supported | Not supported | Supported | Supported <a href="#note6"><sup>6</sup></a> | Supported |
+| Can be deployed to dedicated VNet? | Supported | Supported <a href="#note5"><sup>5</sup></a> | Supported | Not supported | Supported | Supported <a href="#note6"><sup>6</sup></a> | Supported |
 | Hybrid connectivity | Supported | Supported <a href="#note1"><sup>7</sup></a>  | Supported | Not supported | Supported | Supported <a href="#note8"><sup>8</sup></a> | Supported |
 
 Notes
