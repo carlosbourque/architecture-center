@@ -1,5 +1,8 @@
 # Architecture styles
 
+
+<img src="../images/steps-1.svg" style="float:right;"/>
+
 An *architecture style* is a family of architectures that share certain characteristics. For example, [N-tier][n-tier] is a common architecture style. More recently, [microservice architectures][microservices] have started to gain favor. Architecture styles don't require the use of particular technologies, but some technologies are well-suited for certain architectures. For example, containers are a natural fit for microservices.  
 
 We have identified a set of architecture styles that are commonly found in cloud applications. The article for each style includes:
